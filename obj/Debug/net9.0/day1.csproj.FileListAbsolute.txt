@@ -1,0 +1,14 @@
+D:\Net\aoc2024\day1\bin\Debug\net9.0\day1.exe
+D:\Net\aoc2024\day1\bin\Debug\net9.0\day1.deps.json
+D:\Net\aoc2024\day1\bin\Debug\net9.0\day1.runtimeconfig.json
+D:\Net\aoc2024\day1\bin\Debug\net9.0\day1.dll
+D:\Net\aoc2024\day1\bin\Debug\net9.0\day1.pdb
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.AssemblyInfoInputs.cache
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.AssemblyInfo.cs
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.csproj.CoreCompileInputs.cache
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.dll
+D:\Net\aoc2024\day1\obj\Debug\net9.0\refint\day1.dll
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.pdb
+D:\Net\aoc2024\day1\obj\Debug\net9.0\day1.genruntimeconfig.cache
+D:\Net\aoc2024\day1\obj\Debug\net9.0\ref\day1.dll
