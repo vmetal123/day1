@@ -19,4 +19,4 @@ for (int i = 0; i < left.Length; i++)
     result += Math.Abs(left[i] - right[i]);
 }
 
-Console
+Console.WriteLine(result);
